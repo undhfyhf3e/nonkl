@@ -28,8 +28,8 @@
 					<h4 class="mb-2"><strong>𝐮𝐧𝐝𝐞𝐟𝐲 𝐜𝐡𝐞𝐜𝐤𝐞𝐫</strong></h4>
 
 					<textarea rows="12" class="form-control text-center form-checker mb-2" placeholder="PUT YOUR CARDS HERE"></textarea>
-					<textarea rows="1" class="form-control text-center" style="width: 70%; float: left ;"  id="sec" placeholder="sk_live_xxxxxx"></textarea>
-						<textarea rows="1"class="form-control text-center" style="width: 40%; float: left margin-bottom: 10px;" id="tgm" placeholder="Tg Id"></textarea></br>
+					<textarea rows="1" class="form-control text-center" style="width: 600%; float: left ;"  id="sec" placeholder="sk_live_xxxxxx"></textarea>
+						<textarea rows="1"class="form-control text-center" style="width: 40%; float: right ;" 10px;" id="tgm" placeholder="Tg Id"></textarea></br>
 					       				          <select name="gate" id="gate" class="form-control" style="margin-bottom: 5px;"
 							  <option </option>
                  <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/usd1ccn.php">𝒄𝒄𝒏 𝟏$ (usd)</option>
