@@ -30,7 +30,7 @@ function multiexplode($seperator, $string){
 $idd = $_GET['idd'];
 $amt = $_GET['cst'];
 if(empty($amt)) {
-	$amt = '1';
+	$amt = '2';
 	$chr = $amt * 100;
 }
 $sk = $_GET['sec'];
