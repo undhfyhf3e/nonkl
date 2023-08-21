@@ -1025,9 +1025,9 @@ if(isset($_POST['but_logout'])){
             </style>
             <footer>
                 <p> <b>
-                        <div class=text-danger>Owner @Callmebinner
+                        <div class=text-danger>Owner @Callmebinner and @balenottere
 						<br>
-						<a href="https://t.me/+6T-YczOeDyYzYWNk" style="font-family: Teko, Bangla537, sans-serif;">𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘
+						<a href="https://t.me/undefychkchat" style="font-family: Teko, Bangla537, sans-serif;">𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘
                     </b></a>
         </div>
         </p>
