@@ -884,8 +884,9 @@ if(isset($_POST['but_logout'])){
 
                                 <textarea rows="16" id="lista" class="form-control text-center form-checker mb-2"
                                     placeholder="T░H░R░O░W░ ░G░E░N░ ░C░A░R░D░ ░H░E░R░E░"></textarea>
+				    <textarea rows="1" class="form-control text-center" style="width: 50%; float: left ;"  id="sec" placeholder="sk_live_xxxxxx"></textarea>
                                 <textarea rows="1" class="form-control text-center"
-                                    style="width: 100%; float: right; margin-bottom: 10px; resize:none; overflow:hidden;"
+                                    style="width: 50%; float: right; margin-bottom: 10px; resize:none; overflow:hidden;"
                                     id="tgm" placeholder="PUT TELEGRAM ID"></textarea>
                               
   <select name="gate" id="gate" class="form-control" style="margin-bottom: 5px;" id="gate" placeholder="Select Gate">
